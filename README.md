@@ -1,14 +1,11 @@
-<picture>
+
+<hr><!---------------><picture>
   <source media="(prefers-color-scheme: dark)" srcset="/Images/Repo_Parts/Banner/banner_dark.png?raw=true">
   <source media="(prefers-color-scheme: light)" srcset="/Images/Repo_Parts/Banner/banner_light.png?raw=true">
   <img alt="Midjourney Styles and Keywords Reference" src="/Images/Repo_Parts/Banner/banner_light.png?raw=true">
 </picture>
 <br><br>
-
 <blockquote><h6>DISCLAMER: I am not officially affiliated with MidJourney. I am simply a user/member who enjoys using their service.</h6></blockquote>
-
-<hr><!--------------->
-
 <div align="center">
 <a href="/Pages/Sponsors.md"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="/Images/Repo_Parts/Buttons/Main_Page_Top_Section/button_sponsors.webp?raw=true" width = 377>
@@ -47,19 +44,10 @@
   <source media="(prefers-color-scheme: light)" srcset="/Images/Repo_Parts/Buttons/Main_Page_Top_Section/button_control_image_light.webp?raw=true" width = 758>
   <img alt="⚪ Control and Image Seed" src="/Images/Repo_Parts/Buttons/Main_Page_Top_Section/button_control_image.webp?raw=true" width = 758>
 </picture></a>
-
 </div>
-
-
-
 <hr><!--------------->
-
-
-
 <div align="center">
-
   <h3><pre>Styles</pre></h3>
-
 <a href="/Pages/MJ_V4/Style_Pages/Just_The_Style/Rainbow_of_Colors.md">
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="/Images/Repo_Parts/Buttons/Style_Buttons/button_rainbow_of_midjourney_colors.webp?raw=true" width=758>
@@ -218,17 +206,10 @@
   <img alt="🎴 All Style Pages" src="/Images/Repo_Parts/Buttons/Style_Buttons/button_all_style_pages.webp?raw=true" width=758>
   </picture>
 </a>
-
 </div>
-
-
-
 <hr><!--------------->
-
-<div align="center">
-
+<div align="center
 <h3><pre>Comparison Pages</pre></h3>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Comparison_Page_Category_Labels/prompt_writing.webp?raw=true" width = 758>
   <source media="(prefers-color-scheme: light)" srcset="/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Comparison_Page_Category_Labels/prompt_writing_light.webp?raw=true" width = 758>
